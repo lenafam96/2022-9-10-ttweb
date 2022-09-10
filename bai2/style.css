@@ -1,0 +1,36 @@
+table,
+td,
+tr {
+    border: rgb(187, 187, 187) 1px solid;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+#row-1, #row-5 {
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+    padding: 5px;
+}
+
+#row-4{
+    text-align: right;
+    padding: 10px;
+}
+
+#row-2, #row-3, #row-6{
+    padding: 0 10px 10px 10px;
+}
+
+h3{
+    color: blue;
+    margin-top: 5px;
+}
+
+p.img {
+    margin: 0;
+    float: left;
+}
